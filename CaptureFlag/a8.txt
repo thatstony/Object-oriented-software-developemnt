@@ -1,0 +1,1 @@
+The 4th player is walking in random direction thus interfering Catchers of the opposite team.
